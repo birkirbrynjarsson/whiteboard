@@ -3,6 +3,8 @@
 
 Simple browser-based whiteboard built with HTML5 canvas, jQuery, and a Gulp-powered development workflow.
 
+<img width="1291" height="772" alt="Screenshot 2026-04-20 at 13 11 46" src="https://github.com/user-attachments/assets/fd18c1cf-32a4-451c-ab29-68ab290c19ce" />
+
 ## Features
 
 - Freehand pen drawing
