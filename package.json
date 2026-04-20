@@ -4,7 +4,8 @@
   "description": "Simple whiteboard",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp"
   },
   "repository": {
     "type": "git",
@@ -17,9 +18,10 @@
   },
   "homepage": "https://github.com/birkirbrynjarsson/wepo-whiteboard#readme",
   "devDependencies": {
-    "browser-sync": "^2.18.6",
-    "eslint": "^3.13.1",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "browser-sync": "^2.29.3",
+    "eslint": "^8.57.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.86.3"
   }
 }
