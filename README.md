@@ -1,4 +1,5 @@
-# Whiteboard - Reykjavik University, Web Programming, jan 2017
+# Whiteboard
+#### Reykjavik University, Web Programming project (WEPO 2017)
 
 Simple browser-based whiteboard built with HTML5 canvas, jQuery, and a Gulp-powered development workflow.
 
